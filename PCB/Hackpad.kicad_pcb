@@ -3720,6 +3720,28 @@
 		(layer "Edge.Cuts")
 		(uuid "84672d82-735b-4ada-bba8-63bf2f4ab94a")
 	)
+	(gr_circle
+		(center 94 58)
+		(end 97 58)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "a85128f0-dc4e-4a1c-9408-9e7dba10e478")
+	)
+	(gr_circle
+		(center 152 101)
+		(end 152 99)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "afd73325-0d12-407f-beb2-93dd46fdfe04")
+	)
 	(gr_arc
 		(start 153 54)
 		(mid 154.414214 54.585786)
