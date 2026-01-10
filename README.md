@@ -3,13 +3,13 @@ This my hackpad for listening to music
 
 ## Cad Model:
 The whole hackpad comes together with 4 M3 heatset inserts and M3 bolts. The PCB fits snugly inside the case, with 2 pegs holding it still. The case comes in two parts, the top and the bottom. The top has holes to allow the rotary encoder, switches, LEDs, and the OLED screen to poke through.
-![[Hackpad Case.png]]
+![Hackpad Case](HackpadCase.png)
 
 ## PCB:
 This is the schematic for the PCB,
-![[Schematic.png]]
+![Schematic](Schematic.png)
 and this is the PCB itself.
-![[PCB.png]]
+![PCB](PCB.png)
 
 ## Firmware and Functions
 * The 4 buttons have different functions:
