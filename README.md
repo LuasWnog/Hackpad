@@ -6,7 +6,7 @@ The whole hackpad comes together with 4 M3 heatset inserts and M3 bolts. The PCB
 ![Hackpad Case](HackpadCase.png)
 
 ## PCB:
-This is the schematic for the PCB,
+This is the schematic for the PCB (Do note that the pins 1 and 2 and the pins 3 and 4 on the OLED are switched on the schematic),
 ![Schematic](Schematic.png)
 and this is the PCB itself.
 ![PCB](PCB.png)
